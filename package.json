@@ -1,0 +1,11 @@
+{
+  "name": "templating-engine",
+  "version": "1.0.0",
+  "description": "Learning how templating engine works",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aiden Kulynych",
+  "license": "ISC"
+}
